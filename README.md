@@ -14,4 +14,18 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 ## Outcomes
 
+Observations based on the data
 
+![Image1](Images/Image1.png)
+
+Gender distribution pie plot
+
+![Image2](Images/Image2.png)
+
+Box and whiskers plot of tumor volume for promising treatments
+
+![Image3](Images/Image3.png)
+
+Quartiles and potential outliers
+
+![Image4](Images/Image4.png)
